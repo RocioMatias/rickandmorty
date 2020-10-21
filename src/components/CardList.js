@@ -22,7 +22,6 @@ function CardList({ name, classes, image, to }) {
 export default withStyles({
     item: {
         minWidth: "300px",
-        margin: "1em",
         textAlign: "center",
         boxSizing: "border-box",
         margin:"2em"
